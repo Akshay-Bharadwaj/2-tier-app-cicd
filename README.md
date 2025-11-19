@@ -22,5 +22,5 @@ A 2-tier web application (Flask + MySQL) is hosted on EC2 instance and container
 
 <img width="940" height="405" alt="image" src="https://github.com/user-attachments/assets/453e81b8-ff02-472b-a792-36f54336240c" />
 
-<img width="1853" height="825" alt="image" src="https://github.com/user-attachments/assets/8ed4d89c-0a13-47d3-a7e5-8d893dd4f581" />
+<img width="1725" height="942" alt="image" src="https://github.com/user-attachments/assets/7a6096d1-250b-4ffa-8842-7067aa75db9f" />
 
